@@ -1,0 +1,18 @@
+{
+    "Data": [
+      {
+        "fname": "abhay",
+        "lname": "chaskar",
+        "username": "abhayrc",
+        "email": "abhay@g.com",
+        "password": 1234
+      },
+      {
+        "fname": "akshay",
+        "lname": "chaskar",
+        "username": "akshayrc",
+        "email": "akshay@g.com",
+        "password": 4321
+      }  
+    ]
+  }
