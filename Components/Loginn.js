@@ -24,7 +24,7 @@ export class Loginn extends Component {
                 errors.email=regForEmail.test(value)?'':'Enter Valid Email/Username';
                 break;
             case 'password':
-                errors.password=regForEve.test(value)?'':'Enter Password';
+                errors.password=regForEve.test(value)?'':'Invalid Password';
                 break;
             }
             this.setState({errors,[name]:value},()=>{
